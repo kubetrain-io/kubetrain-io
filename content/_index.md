@@ -88,7 +88,8 @@ Your logo here? Check out the <a href="https://kubetrain.io/sponsor"> sponsor pr
 ## Community sponsors
 
 <a href="https://amsterdam.dev/"><img style="margin: 1%;" width="30%" src="images/amsterdam.dev.png"></a>
-<a href="https://thegogrow.company/"><img style="margin: 1%;" width="30%" src="images/gogrowcompany.png"></a>
+<a href="https://thegogrow.ch/"><img style="margin: 1%;" width="30%" src="images/gogrowcompany.png"></a>
+<a href="https://rocketengineers.io/"><img style="margin: 1%;" width="30%" src="images/rocketengineers.png"></a>
 
 </div>
 
