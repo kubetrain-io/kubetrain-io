@@ -78,6 +78,7 @@ Your logo here? Check out the <a href="https://kubetrain.io/sponsor"> sponsor pr
 ## Silver sponsors
 
 <a href="https://airlock.com/"><img style="margin: 1%" width="40%" src="/images/airlock-logo.svg"></a>
+<a href="https://cast.ai/"><img style="margin: 1%;" width="60%" src="images/castai.png"></a>
 <a href="https://www.kubermatic.com/"><img style="margin: 1%;" width="60%" src="images/kubermatic.png"></a>
 
 ## Bronze sponsors
