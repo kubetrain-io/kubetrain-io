@@ -49,9 +49,7 @@ Coming Soon...
 <!--
 <a href="https://www.dynatrace.com/"><img style="margin: 1%" width="60%" src="images/dynatrace.png"></a>
 <a href="https://isovalent.com/"><img style="margin: 1%" width="50%" src="images/isovalent.png"></a>
-<a href="https://vshn.ch/"><img style="margin: 1%" width="40%" src="images/vshn.png"></a>
 <a href="https://fika.works/"><img style="margin: 1%;" width="30%" src="images/fikaworks.png"></a>
-<a href="https://re-cinq.com/"><img style="margin: 1%;" width="30%" src="images/re_cinq.png"></a>
 <a href="https://cncf.io/"><img style="margin: 1%;" width="45%" src="images/cncf.svg"></a>
 <a href="https://paris.dev/"><img style="margin: 1%;" width="30%" src="images/paris.dev.png"></a>
 <a href="https://cloudnativesummit.de/"><img style="margin: 1%;" width="30%" src="images/cns_munich.png"></a>
@@ -85,7 +83,10 @@ Your logo here? Check out the <a href="https://kubetrain.io/sponsor"> sponsor pr
 ## Bronze sponsors
 
 <a href="https://cloudnativezurich.ch/"><img style="margin: 1%;" width="30%" src="images/cloud_native_zurich.png"></a>
+<a href="https://re-cinq.com/"><img style="margin: 1%;" width="30%" src="images/re_cinq.png"></a>
+<a href="https://meltcloud.io/"><img style="margin: 1%;" width="30%" src="images/meltcloud.png"></a>
 <a href="https://cloudnativeday.ch/"><img style="margin: 1%;" width="30%" src="images/swiss_cloud_native_day.svg"></a>
+<a href="https://vshn.ch/"><img style="margin: 1%" width="40%" src="images/vshn.png"></a>
 
 ## Community sponsors
 
